@@ -1,0 +1,1 @@
+A very quick example of the mediator pattern with [MediatR](https://github.com/jbogard/MediatR).

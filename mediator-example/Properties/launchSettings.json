@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "mediator_example": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
